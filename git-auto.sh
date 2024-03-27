@@ -1,6 +1,6 @@
 #!/bin/sh
 git add .
-echo "name : "
+echo 'name : '
 read myjob
 git commit -m "$myjob"
 git push -u origin main
