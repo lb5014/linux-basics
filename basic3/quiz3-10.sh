@@ -15,4 +15,5 @@ do
     fi
 done
 
-echo "파일 수: $file_count, 디렉토리 수: $dir_count"
+echo "파일 수: $file_count,"
+echo "디렉토리 수: $dir_count"
