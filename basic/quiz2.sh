@@ -1,2 +1,3 @@
 #!/bin/sh
-echo '/home/username'
+cd ~
+pwd

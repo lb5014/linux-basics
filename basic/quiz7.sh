@@ -1,4 +1,4 @@
 #!/bin/sh
 touch notes.txt
-echo 'Hello, Linux'
+echo 'Hello, Linux' > notes.txt
 cat notes.txt
